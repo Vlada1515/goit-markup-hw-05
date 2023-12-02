@@ -593,7 +593,6 @@ width: 264px;
         align-items: center;
         padding: 8px 24px;
         gap: 16px;
-        
         border-radius: 4px;
             background: var(--IRIS, #4D5AE5);
         border: none;
@@ -834,4 +833,9 @@ text-decoration-line: underline;
                 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+
+.order-service-submit-btn:hover
+ {
+background: var(--OCEAN, #404BBF);
+}
 
